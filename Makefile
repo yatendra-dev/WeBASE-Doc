@@ -2,9 +2,9 @@
 #
 
 # You can set these variables from the command line.
-SPHINXOPTS    =
+SPHINXOPTS    = sphinx_opts
 SPHINXBUILD   = sphinx-build
-PAPER         =
+PAPER         = paper
 BUILDDIR      = _build
 
 # User-friendly check for sphinx-build
